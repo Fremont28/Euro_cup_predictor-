@@ -1,0 +1,269 @@
+,Unnamed: 0,X,date,team1,team2,t1,t2,score_diff,win,team1_win,score_diff_t1,score_diff_t2,match_date,date_score,sd1_weight,sd2_weight,team_score_diff_t1,team_score_diff_date_t1,team_score_diff_t2,team_score_diff_date_t2,team1,team2
+51,52,51,09.10. 20:45,Switzerland,San Marino,7,0,7,1,1,7,-7,10,0.8,5.6,-5.6,16,11,-35,-22.1,Switzerland,San Marino
+73,74,73,07.09. 20:45,Poland,Gibraltar,8,1,7,1,1,7,-7,9,0.7,4.9,-4.9,23,16,-54,-35.5,Poland,Gibraltar
+222,223,222,11.10. 18:00,Ireland,Gibraltar,7,0,7,1,1,7,-7,10,0.8,5.6,-5.6,14,10.7,-54,-35.5,Ireland,Gibraltar
+162,163,162,27.03. 20:45,Slovenia,San Marino,6,0,6,1,1,6,-6,3,0.1,0.6,-0.6,5,-0.1,-35,-22.1,Slovenia,San Marino
+173,174,173,16.11. 18:00,Netherlands,Latvia,6,0,6,1,1,6,-6,11,0.9,5.4,-5.4,3,2.7,-13,-10.1,Netherlands,Latvia
+202,203,202,13.10. 20:45,Croatia,Azerbaijan,6,0,6,1,1,6,-6,10,0.8,4.8,-4.8,15,9.2,-11,-10.2,Croatia,Azerbaijan
+225,226,225,10.10. 20:45,Belgium,Andorra,6,0,6,1,1,6,-6,10,0.8,4.8,-4.8,19,11.1,-32,-22.4,Belgium,Andorra
+235,236,235,09.10. 20:45,England,San Marino,5,0,5,1,1,5,-5,10,0.8,4,-4,28,18.4,-35,-22.1,England,San Marino
+146,147,146,29.03. 18:00,Scotland,Gibraltar,6,1,5,1,1,5,-5,3,0.1,0.5,-0.5,10,4.9,-54,-35.5,Scotland,Gibraltar
+148,149,148,28.03. 20:45,Belgium,Cyprus,5,0,5,1,1,5,-5,3,0.1,0.5,-0.5,19,11.1,5,2.5,Belgium,Cyprus
+172,173,172,16.11. 18:00,Cyprus,Andorra,5,0,5,1,1,5,-5,11,0.9,4.5,-4.5,-1,2.5,-32,-22.4,Cyprus,Andorra
+152,153,152,28.03. 18:00,Croatia,Norway,5,1,4,1,1,4,-4,3,0.1,0.4,-0.4,15,9.2,1,3.4,Croatia,Norway
+50,51,50,09.10. 20:45,Spain,Luxembourg,4,0,4,1,1,4,-4,10,0.8,3.2,-3.2,20,14.5,-21,-13.7,Spain,Luxembourg
+177,178,177,15.11. 20:45,Switzerland,Lithuania,4,0,4,1,1,4,-4,11,0.9,3.6,-3.6,16,11,-11,-6.2,Switzerland,Lithuania
+156,157,156,27.03. 20:45,England,Lithuania,4,0,4,1,1,4,-4,3,0.1,0.4,-0.4,28,18.4,-11,-6.2,England,Lithuania
+259,260,259,08.09. 18:00,Russia,Liechtenstein,4,0,4,1,1,4,-4,9,0.7,2.8,-2.8,16,9.8,-24,-14.3,Russia,Liechtenstein
+183,184,183,14.11. 20:45,Germany,Gibraltar,4,0,4,1,1,4,-4,11,0.9,3.6,-3.6,15,7.8,-54,-35.5,Germany,Gibraltar
+59,60,59,08.10. 18:00,Georgia,Gibraltar,4,0,4,1,1,4,-4,10,0.8,3.2,-3.2,-6,-2.1,-54,-35.5,Georgia,Gibraltar
+128,129,128,13.06. 18:00,Poland,Georgia,4,0,4,1,1,4,-4,6,0.4,1.6,-1.6,23,16,-6,-2.1,Poland,Georgia
+256,257,256,08.09. 20:45,Spain,FYR Macedonia,5,1,4,1,1,4,-4,9,0.7,2.8,-2.8,20,14.5,-12,-8.1,Spain,FYR Macedonia
+107,108,107,03.09. 20:45,Israel,Andorra,4,0,4,1,1,4,-4,9,0.7,2.8,-2.8,2,5.1,-32,-22.4,Israel,Andorra
+247,248,247,09.09. 20:45,Iceland,Turkey,3,0,3,1,1,3,-3,9,0.7,2.1,-2.1,11,5.8,5,3.8,Iceland,Turkey
+84,85,84,06.09. 18:00,Turkey,Netherlands,3,0,3,1,1,3,-3,9,0.7,2.1,-2.1,5,3.8,3,2.7,Turkey,Netherlands
+120,121,120,14.06. 18:00,Ukraine,Luxembourg,3,0,3,1,1,3,-3,6,0.4,1.2,-1.2,12,9.5,-21,-13.7,Ukraine,Luxembourg
+161,162,161,27.03. 20:45,Slovakia,Luxembourg,3,0,3,1,1,3,-3,3,0.1,0.3,-0.3,9,5,-21,-13.7,Slovakia,Luxembourg
+23,24,23,12.10. 18:00,Austria,Liechtenstein,3,0,3,1,1,3,-3,10,0.8,2.4,-2.4,17,9.4,-24,-14.3,Austria,Liechtenstein
+164,165,164,27.03. 20:45,Switzerland,Estonia,3,0,3,1,1,3,-3,3,0.1,0.3,-0.3,16,11,-5,-2.8,Switzerland,Estonia
+36,37,36,10.10. 20:45,Croatia,Bulgaria,3,0,3,1,1,3,-3,10,0.8,2.4,-2.4,15,9.2,-3,-2.7,Croatia,Bulgaria
+167,168,167,16.11. 20:45,Israel,Bosnia & Herzegovina,3,0,3,1,1,3,-3,11,0.9,2.7,-2.7,2,5.1,-3,-2.7,Israel,Bosnia & Herzegovina
+176,177,176,15.11. 20:45,Spain,Belarus,3,0,3,1,1,3,-3,11,0.9,2.7,-2.7,20,14.5,-6,-5.4,Spain,Belarus
+77,78,77,06.09. 20:45,Bosnia & Herzegovina,Andorra,3,0,3,1,1,3,-3,9,0.7,2.1,-2.1,3,-1,-32,-22.4,Bosnia & Herzegovina,Andorra
+35,36,35,10.10. 20:45,Bosnia & Herzegovina,Wales,2,0,2,1,1,2,-2,10,0.8,1.6,-1.6,3,-1,7,2.9,Bosnia & Herzegovina,Wales
+61,62,61,08.09. 20:45,England,Switzerland,2,0,2,1,1,2,-2,9,0.7,1.4,-1.4,28,18.4,16,11,England,Switzerland
+5,6,5,14.11. 18:00,Ukraine,Slovenia,2,0,2,1,1,2,-2,11,0.9,1.8,-1.8,12,9.5,5,-0.1,Ukraine,Slovenia
+179,180,179,15.11. 18:00,England,Slovenia,3,1,2,1,1,2,-2,11,0.9,1.8,-1.8,28,18.4,5,-0.1,England,Slovenia
+88,89,88,05.09. 20:45,Spain,Slovakia,2,0,2,1,1,2,-2,9,0.7,1.4,-1.4,20,14.5,9,5,Spain,Slovakia
+121,122,121,13.06. 20:45,Denmark,Serbia,2,0,2,1,1,2,-2,6,0.4,0.8,-0.8,2,0.8,-5,-2.9,Denmark,Serbia
+116,117,116,14.06. 18:00,Estonia,San Marino,2,0,2,1,1,2,-2,6,0.4,0.8,-0.8,-5,-2.8,-35,-22.1,Estonia,San Marino
+97,98,97,04.09. 20:45,Germany,Poland,3,1,2,1,1,2,-2,9,0.7,1.4,-1.4,15,7.8,23,16,Germany,Poland
+187,188,187,14.11. 20:45,Romania,Northern Ireland,2,0,2,1,1,2,-2,11,0.9,1.8,-1.8,9,6.6,8,5.2,Romania,Northern Ireland
+203,204,203,13.10. 20:45,Iceland,Netherlands,2,0,2,1,1,2,-2,10,0.8,1.6,-1.6,11,5.8,3,2.7,Iceland,Netherlands
+115,116,115,14.06. 20:45,Sweden,Montenegro,3,1,2,1,1,2,-2,6,0.4,0.8,-0.8,7,3.9,-3,-0.1,Sweden,Montenegro
+24,25,24,12.10. 18:00,Russia,Montenegro,2,0,2,1,1,2,-2,10,0.8,1.6,-1.6,16,9.8,-3,-0.1,Russia,Montenegro
+25,26,25,12.10. 18:00,Sweden,Moldova,2,0,2,1,1,2,-2,10,0.8,1.6,-1.6,7,3.9,-12,-7.8,Sweden,Moldova
+254,255,254,08.09. 20:45,Montenegro,Moldova,2,0,2,1,1,2,-2,9,0.7,1.4,-1.4,-3,-0.1,-12,-7.8,Montenegro,Moldova
+42,43,42,10.10. 18:00,Norway,Malta,2,0,2,1,1,2,-2,10,0.8,1.6,-1.6,1,3.4,-13,-8.3,Norway,Malta
+245,246,245,09.09. 20:45,Croatia,Malta,2,0,2,1,1,2,-2,9,0.7,1.4,-1.4,15,9.2,-13,-8.3,Croatia,Malta
+151,152,151,28.03. 18:00,Azerbaijan,Malta,2,0,2,1,1,2,-2,3,0.1,0.2,-0.2,-11,-10.2,-13,-8.3,Azerbaijan,Malta
+60,61,60,08.09. 20:45,Belarus,Luxembourg,2,0,2,1,1,2,-2,9,0.7,1.4,-1.4,-6,-5.4,-21,-13.7,Belarus,Luxembourg
+212,213,212,12.10. 20:45,Sweden,Liechtenstein,2,0,2,1,1,2,-2,10,0.8,1.6,-1.6,7,3.9,-24,-14.3,Sweden,Liechtenstein
+87,88,87,05.09. 20:45,Montenegro,Liechtenstein,2,0,2,1,1,2,-2,9,0.7,1.4,-1.4,-3,-0.1,-24,-14.3,Montenegro,Liechtenstein
+169,170,169,16.11. 20:45,Turkey,Kazakhstan,3,1,2,1,1,2,-2,11,0.9,1.8,-1.8,5,3.8,-11,-6.4,Turkey,Kazakhstan
+231,232,231,10.10. 20:45,Netherlands,Kazakhstan,3,1,2,1,1,2,-2,10,0.8,1.6,-1.6,3,2.7,-11,-6.4,Netherlands,Kazakhstan
+130,131,130,12.06. 20:45,Bosnia & Herzegovina,Israel,3,1,2,1,1,2,-2,6,0.4,0.8,-0.8,3,-1,2,5.1,Bosnia & Herzegovina,Israel
+8,9,8,13.10. 20:45,Belgium,Israel,3,1,2,1,1,2,-2,10,0.8,1.6,-1.6,19,11.1,2,5.1,Belgium,Israel
+55,56,55,08.10. 20:45,Northern Ireland,Greece,3,1,2,1,1,2,-2,10,0.8,1.6,-1.6,8,5.2,-7,-5.1,Northern Ireland,Greece
+220,221,220,11.10. 20:45,Poland,Germany,2,0,2,1,1,2,-2,10,0.8,1.6,-1.6,1,3.4,15,7.8,Poland,Germany
+219,220,219,11.10. 20:45,Northern Ireland,Faroe Islands,2,0,2,1,1,2,-2,10,0.8,1.6,-1.6,8,5.2,-11,-7.9,Northern Ireland,Faroe Islands
+43,44,43,09.10. 20:45,England,Estonia,2,0,2,1,1,2,-2,10,0.8,1.6,-1.6,28,18.4,-5,-2.8,England,Estonia
+83,84,83,06.09. 18:00,Norway,Croatia,2,0,2,1,1,2,-2,9,0.7,1.4,-1.4,1,3.4,15,9.2,Norway,Croatia
+2,3,2,16.11. 20:45,Ireland,Bosnia & Herzegovina,2,0,2,1,1,2,-2,11,0.9,1.8,-1.8,14,10.7,-3,-2.7,Ireland,Bosnia & Herzegovina
+103,104,103,03.09. 20:45,Belgium,Bosnia & Herzegovina,3,1,2,1,1,2,-2,9,0.7,1.4,-1.4,19,11.1,-3,-2.7,Belgium,Bosnia & Herzegovina
+94,95,94,05.09. 18:00,Ukraine,Belarus,3,1,2,1,1,2,-2,9,0.7,1.4,-1.4,12,9.5,-6,-5.4,Ukraine,Belarus
+9,10,9,13.10. 20:45,Bulgaria,Azerbaijan,2,0,2,1,1,2,-2,10,0.8,1.6,-1.6,-3,-2.7,-11,-10.2,Bulgaria,Azerbaijan
+101,102,101,04.09. 20:45,Serbia,Armenia,2,0,2,1,1,2,-2,9,0.7,1.4,-1.4,-5,-2.9,-9,-5.9,Serbia,Armenia
+16,17,16,13.10. 20:45,Wales,Andorra,2,0,2,1,1,2,-2,10,0.8,1.6,-1.6,7,2.9,-32,-22.4,Wales,Andorra
+163,164,163,27.03. 20:45,Spain,Ukraine,1,0,1,1,1,1,-1,3,0.1,0.1,-0.1,20,14.5,12,9.5,Spain,Ukraine
+241,242,241,09.10. 20:45,Slovenia,Switzerland,1,0,1,1,1,1,-1,10,0.8,0.8,-0.8,5,-0.1,16,11,Slovenia,Switzerland
+92,93,92,05.09. 18:00,Russia,Sweden,1,0,1,1,1,1,-1,9,0.7,0.7,-0.7,16,9.8,7,3.9,Russia,Sweden
+240,241,240,09.10. 20:45,Slovakia,Spain,2,1,1,1,1,1,-1,10,0.8,0.8,-0.8,9,5,20,14.5,Slovakia,Spain
+89,90,89,05.09. 20:45,Switzerland,Slovenia,3,2,1,1,1,1,-1,9,0.7,0.7,-0.7,16,11,5,-0.1,Switzerland,Slovenia
+252,253,252,08.09. 20:45,Estonia,Slovenia,1,0,1,1,1,1,-1,9,0.7,0.7,-0.7,-5,-2.8,5,-0.1,Estonia,Slovenia
+141,142,141,29.03. 20:45,Portugal,Serbia,2,1,1,1,1,1,-1,3,0.1,0.1,-0.1,6,3.8,-5,-2.9,Portugal,Serbia
+261,262,261,07.09. 20:45,Germany,Scotland,2,1,1,1,1,1,-1,9,0.7,0.7,-0.7,15,7.8,10,4.9,Germany,Scotland
+102,103,102,04.09. 18:00,Georgia,Scotland,1,0,1,1,1,1,-1,9,0.7,0.7,-0.7,-6,-2.1,10,4.9,Georgia,Scotland
+64,65,64,08.09. 20:45,Lithuania,San Marino,2,1,1,1,1,1,-1,9,0.7,0.7,-0.7,-11,-6.2,-35,-22.1,Lithuania,San Marino
+178,179,178,15.11. 18:00,Austria,Russia,1,0,1,1,1,1,-1,11,0.9,0.9,-0.9,17,9.4,16,9.8,Austria,Russia
+11,12,11,13.10. 20:45,Italy,Norway,2,1,1,1,1,1,-1,10,0.8,0.8,-0.8,9,6.8,1,3.4,Italy,Norway
+3,4,3,15.11. 20:45,Hungary,Norway,2,1,1,1,1,1,-1,11,0.9,0.9,-0.9,4,3.2,1,3.4,Hungary,Norway
+246,247,246,09.09. 20:45,Czech Republic,Netherlands,2,1,1,1,1,1,-1,9,0.7,0.7,-0.7,5,4.2,3,2.7,Czech Republic,Netherlands
+213,214,213,12.10. 18:00,Austria,Montenegro,1,0,1,1,1,1,-1,10,0.8,0.8,-0.8,17,9.4,-3,-0.1,Austria,Montenegro
+86,87,86,05.09. 20:45,Austria,Moldova,1,0,1,1,1,1,-1,9,0.7,0.7,-0.7,17,9.4,-12,-7.8,Austria,Moldova
+108,109,108,03.09. 20:45,Italy,Malta,1,0,1,1,1,1,-1,9,0.7,0.7,-0.7,9,6.8,-13,-8.3,Italy,Malta
+236,237,236,09.10. 20:45,FYR Macedonia,Luxembourg,3,2,1,1,1,1,-1,10,0.8,0.8,-0.8,-12,-8.1,-21,-13.7,FYR Macedonia,Luxembourg
+90,91,90,05.09. 18:00,Estonia,Lithuania,1,0,1,1,1,1,-1,9,0.7,0.7,-0.7,-5,-2.8,-11,-6.2,Estonia,Lithuania
+106,107,106,03.09. 20:45,Czech Republic,Kazakhstan,2,1,1,1,1,1,-1,9,0.7,0.7,-0.7,5,4.2,-11,-6.4,Czech Republic,Kazakhstan
+188,189,188,14.11. 20:45,Scotland,Ireland,1,0,1,1,1,1,-1,11,0.9,0.9,-0.9,10,4.9,14,10.7,Scotland,Ireland
+28,29,28,11.10. 20:45,Poland,Ireland,2,1,1,1,1,1,-1,10,0.8,0.8,-0.8,23,16,14,10.7,Poland,Ireland
+15,16,15,13.10. 20:45,Turkey,Iceland,1,0,1,1,1,1,-1,10,0.8,0.8,-0.8,5,3.8,11,5.8,Turkey,Iceland
+166,167,166,16.11. 20:45,Czech Republic,Iceland,2,1,1,1,1,1,-1,11,0.9,0.9,-0.9,5,4.2,11,5.8,Czech Republic,Iceland
+32,33,32,11.10. 18:00,Greece,Hungary,4,3,1,1,1,1,-1,10,0.8,0.8,-0.8,-7,-5.1,4,3.2,Greece,Hungary
+122,123,122,13.06. 20:45,Faroe Islands,Greece,2,1,1,1,1,1,-1,6,0.4,0.4,-0.4,-11,-7.9,-7,-5.1,Faroe Islands,Greece
+54,55,54,08.10. 20:45,Ireland,Germany,1,0,1,1,1,1,-1,10,0.8,0.8,-0.8,14,10.7,15,7.8,Ireland,Germany
+224,225,224,11.10. 18:00,Scotland,Georgia,1,0,1,1,1,1,-1,10,0.8,0.8,-0.8,10,4.9,-6,-2.1,Scotland,Georgia
+71,72,71,07.09. 20:45,Ireland,Georgia,1,0,1,1,1,1,-1,9,0.7,0.7,-0.7,14,10.7,-6,-2.1,Ireland,Georgia
+26,27,26,11.10. 20:45,Germany,Georgia,2,1,1,1,1,1,-1,10,0.8,0.8,-0.8,15,7.8,-6,-2.1,Germany,Georgia
+216,217,216,12.10. 18:00,Ukraine,FYR Macedonia,1,0,1,1,1,1,-1,10,0.8,0.8,-0.8,12,9.5,-12,-8.1,Ukraine,FYR Macedonia
+114,115,114,14.06. 20:45,Slovakia,FYR Macedonia,2,1,1,1,1,1,-1,6,0.4,0.4,-0.4,9,5,-12,-8.1,Slovakia,FYR Macedonia
+91,92,91,05.09. 18:00,Luxembourg,FYR Macedonia,1,0,1,1,1,1,-1,9,0.7,0.7,-0.7,-21,-13.7,-12,-8.1,Luxembourg,FYR Macedonia
+144,145,144,29.03. 18:00,Northern Ireland,Finland,2,1,1,1,1,1,-1,3,0.1,0.1,-0.1,8,5.2,-1,-0.2,Northern Ireland,Finland
+185,186,185,14.11. 20:45,Hungary,Finland,1,0,1,1,1,1,-1,11,0.9,0.9,-0.9,4,3.2,-1,-0.2,Hungary,Finland
+145,146,145,29.03. 18:00,Romania,Faroe Islands,1,0,1,1,1,1,-1,3,0.1,0.1,-0.1,9,6.6,-11,-7.9,Romania,Faroe Islands
+53,54,53,08.10. 20:45,Hungary,Faroe Islands,2,1,1,1,1,1,-1,10,0.8,0.8,-0.8,4,3.2,-11,-7.9,Hungary,Faroe Islands
+70,71,70,07.09. 20:45,Finland,Faroe Islands,1,0,1,1,1,1,-1,9,0.7,0.7,-0.7,-1,-0.2,-11,-7.9,Finland,Faroe Islands
+67,68,67,08.09. 20:45,Slovenia,Estonia,1,0,1,1,1,1,-1,9,0.7,0.7,-0.7,5,-0.1,-5,-2.8,Slovenia,Estonia
+238,239,238,09.10. 20:45,Lithuania,Estonia,1,0,1,1,1,1,-1,10,0.8,0.8,-0.8,-11,-6.2,-5,-2.8,Lithuania,Estonia
+4,5,4,14.11. 20:45,Sweden,Denmark,2,1,1,1,1,1,-1,11,0.9,0.9,-0.9,7,3.9,2,0.8,Sweden,Denmark
+56,57,56,08.10. 20:45,Portugal,Denmark,1,0,1,1,1,1,-1,10,0.8,0.8,-0.8,6,3.8,2,0.8,Portugal,Denmark
+132,133,132,12.06. 20:45,Iceland,Czech Republic,2,1,1,1,1,1,-1,6,0.4,0.4,-0.4,11,5.8,5,4.2,Iceland,Czech Republic
+207,208,207,13.10. 20:45,Wales,Cyprus,2,1,1,1,1,1,-1,10,0.8,0.8,-0.8,7,2.9,5,2.5,Wales,Cyprus
+206,207,206,13.10. 20:45,Norway,Bulgaria,2,1,1,1,1,1,-1,10,0.8,0.8,-0.8,1,3.4,-3,-2.7,Norway,Bulgaria
+80,81,80,06.09. 20:45,Italy,Bulgaria,1,0,1,1,1,1,-1,9,0.7,0.7,-0.7,9,6.8,-3,-2.7,Italy,Bulgaria
+136,137,136,12.06. 20:45,Wales,Belgium,1,0,1,1,1,1,-1,6,0.4,0.4,-0.4,7,2.9,19,11.1,Wales,Belgium
+228,229,228,10.10. 20:45,Italy,Azerbaijan,2,1,1,1,1,1,-1,10,0.8,0.8,-0.8,9,6.8,-11,-10.2,Italy,Azerbaijan
+186,187,186,14.11. 20:45,Portugal,Armenia,1,0,1,1,1,1,-1,11,0.9,0.9,-0.9,6,3.8,-9,-5.9,Portugal,Armenia
+265,266,265,07.09. 18:00,Denmark,Armenia,2,1,1,1,1,1,-1,9,0.7,0.7,-0.7,2,0.8,-9,-5.9,Denmark,Armenia
+142,143,142,29.03. 18:00,Albania,Armenia,2,1,1,1,1,1,-1,3,0.1,0.1,-0.1,5,3.3,-9,-5.9,Albania,Armenia
+171,172,171,16.11. 18:00,Belgium,Wales,0,0,0,2,1,0,0,11,0.9,0,0,19,11.1,7,2.9,Belgium,Wales
+1,2,1,17.11. 20:45,Slovenia,Ukraine,1,1,0,2,1,0,0,11,0.9,0,0,5,-0.1,12,9.5,Slovenia,Ukraine
+66,67,66,08.09. 20:45,Slovakia,Ukraine,0,0,0,2,1,0,0,9,0.7,0,0,9,5,12,9.5,Slovakia,Ukraine
+150,151,150,28.03. 20:45,Netherlands,Turkey,1,1,0,2,1,0,0,3,0.1,0,0,3,2.7,5,3.8,Netherlands,Turkey
+204,205,204,13.10. 20:45,Latvia,Turkey,1,1,0,2,1,0,0,10,0.8,0,0,-13,-10.1,5,3.8,Latvia,Turkey
+175,176,175,15.11. 20:45,Montenegro,Sweden,1,1,0,2,1,0,0,11,0.9,0,0,-3,-0.1,7,3.9,Montenegro,Sweden
+0,1,0,17.11. 20:45,Denmark,Sweden,2,2,0,2,1,0,0,11,0.9,0,0,2,0.8,7,3.9,Denmark,Sweden
+251,252,251,08.09. 20:45,Austria,Sweden,1,1,0,2,1,0,0,9,0.7,0,0,17,9.4,7,3.9,Austria,Sweden
+221,222,221,11.10. 18:00,Armenia,Serbia,1,1,0,2,1,0,0,10,0.8,0,0,-9,-5.9,-5,-2.9,Armenia,Serbia
+197,198,197,14.10. 20:45,Poland,Scotland,2,2,0,2,1,0,0,10,0.8,0,0,23,16,10,4.9,Poland,Scotland
+127,128,127,13.06. 18:00,Ireland,Scotland,1,1,0,2,1,0,0,6,0.4,0,0,14,10.7,10,4.9,Ireland,Scotland
+242,243,242,09.10. 20:45,Sweden,Russia,1,1,0,2,1,0,0,10,0.8,0,0,7,3.9,16,9.8,Sweden,Russia
+124,125,124,13.06. 20:45,Northern Ireland,Romania,0,0,0,2,1,0,0,6,0.4,0,0,8,5.2,9,6.6,Northern Ireland,Romania
+100,101,100,04.09. 20:45,Hungary,Romania,0,0,0,2,1,0,0,9,0.7,0,0,4,3.2,9,6.6,Hungary,Romania
+58,59,58,08.10. 20:45,Scotland,Poland,2,2,0,2,1,0,0,10,0.8,0,0,10,4.9,23,16,Scotland,Poland
+140,141,140,29.03. 20:45,Ireland,Poland,1,1,0,2,1,0,0,3,0.1,0,0,14,10.7,23,16,Ireland,Poland
+31,32,31,11.10. 18:00,Finland,Northern Ireland,1,1,0,2,1,0,0,10,0.8,0,0,-1,-0.2,8,5.2,Finland,Northern Ireland
+237,238,237,09.10. 20:45,Liechtenstein,Montenegro,0,0,0,2,1,0,0,10,0.8,0,0,-24,-14.3,-3,-0.1,Liechtenstein,Montenegro
+215,216,215,12.10. 18:00,Russia,Moldova,1,1,0,2,1,0,0,10,0.8,0,0,16,9.8,-12,-7.8,Russia,Moldova
+117,118,117,14.06. 18:00,Liechtenstein,Moldova,1,1,0,2,1,0,0,6,0.4,0,0,-24,-14.3,-12,-7.8,Liechtenstein,Moldova
+165,166,165,16.11. 20:45,Bulgaria,Malta,1,1,0,2,1,0,0,11,0.9,0,0,-3,-2.7,-13,-8.3,Bulgaria,Malta
+49,50,49,09.10. 20:45,Slovenia,Lithuania,1,1,0,2,1,0,0,10,0.8,0,0,5,-0.1,-11,-6.2,Slovenia,Lithuania
+110,111,110,03.09. 20:45,Turkey,Latvia,1,1,0,2,1,0,0,9,0.7,0,0,5,3.8,-13,-10.1,Turkey,Latvia
+250,251,250,09.09. 18:00,Kazakhstan,Latvia,0,0,0,2,1,0,0,9,0.7,0,0,-11,-6.4,-13,-10.1,Kazakhstan,Latvia
+40,41,40,10.10. 18:00,Iceland,Latvia,2,2,0,2,1,0,0,10,0.8,0,0,11,5.8,-13,-10.1,Iceland,Latvia
+153,154,153,28.03. 18:00,Czech Republic,Latvia,1,1,0,2,1,0,0,3,0.1,0,0,5,4.2,-13,-10.1,Czech Republic,Latvia
+79,80,79,06.09. 20:45,Iceland,Kazakhstan,0,0,0,2,1,0,0,9,0.7,0,0,11,5.8,-11,-6.4,Iceland,Kazakhstan
+131,132,131,12.06. 20:45,Croatia,Italy,1,1,0,2,1,0,0,6,0.4,0,0,15,9.2,9,6.8,Croatia,Italy
+149,150,149,28.03. 20:45,Bulgaria,Italy,2,2,0,2,1,0,0,3,0.1,0,0,-3,-2.7,9,6.8,Bulgaria,Italy
+85,86,85,06.09. 18:00,Wales,Israel,0,0,0,2,1,0,0,9,0.7,0,0,7,2.9,2,5.1,Wales,Israel
+194,195,194,14.10. 20:45,Germany,Ireland,1,1,0,2,1,0,0,10,0.8,0,0,15,7.8,14,10.7,Germany,Ireland
+6,7,6,13.11. 20:45,Bosnia & Herzegovina,Ireland,1,1,0,2,1,0,0,11,0.9,0,0,3,-1,11,5.8,Bosnia & Herzegovina,Ireland
+223,224,223,11.10. 18:00,Romania,Hungary,1,1,0,2,1,0,0,10,0.8,0,0,9,6.6,4,3.2,Romania,Hungary
+72,73,72,07.09. 20:45,Northern Ireland,Hungary,1,1,0,2,1,0,0,9,0.7,0,0,8,5.2,4,3.2,Northern Ireland,Hungary
+74,75,74,07.09. 20:45,Romania,Greece,0,0,0,2,1,0,0,9,0.7,0,0,9,6.6,-7,-5.1,Romania,Greece
+139,140,139,29.03. 20:45,Hungary,Greece,0,0,0,2,1,0,0,3,0.1,0,0,4,3.2,-7,-5.1,Hungary,Greece
+218,219,218,11.10. 20:45,Finland,Greece,1,1,0,2,1,0,0,10,0.8,0,0,-1,-0.2,-7,-5.1,Finland,Greece
+17,18,17,12.10. 20:45,Belarus,FYR Macedonia,0,0,0,2,1,0,0,10,0.8,0,0,-6,-5.4,-12,-8.1,Belarus,FYR Macedonia
+57,58,57,08.10. 20:45,Romania,Finland,1,1,0,2,1,0,0,10,0.8,0,0,9,6.6,-1,-0.2,Romania,Finland
+182,183,182,15.11. 18:00,San Marino,Estonia,0,0,0,2,1,0,0,11,0.9,0,0,-35,-22.1,-5,-2.8,San Marino,Estonia
+76,77,76,07.09. 18:00,Armenia,Denmark,0,0,0,2,1,0,0,9,0.7,0,0,-9,-5.9,2,0.8,Armenia,Denmark
+217,218,217,11.10. 20:45,Albania,Denmark,1,1,0,2,1,0,0,10,0.8,0,0,5,3.3,2,0.8,Albania,Denmark
+168,169,168,16.11. 20:45,Italy,Croatia,1,1,0,2,1,0,0,11,0.9,0,0,9,6.8,15,9.2,Italy,Croatia
+111,112,111,03.09. 18:00,Azerbaijan,Croatia,0,0,0,2,1,0,0,9,0.7,0,0,-11,-10.2,15,9.2,Azerbaijan,Croatia
+233,234,233,10.10. 20:45,Wales,Bosnia & Herzegovina,0,0,0,2,1,0,0,10,0.8,0,0,7,2.9,-3,-2.7,Wales,Bosnia & Herzegovina
+201,202,201,13.10. 20:45,Bosnia & Herzegovina,Belgium,1,1,0,2,1,0,0,10,0.8,0,0,3,-1,19,11.1,Bosnia & Herzegovina,Belgium
+253,254,253,08.09. 20:45,Luxembourg,Belarus,1,1,0,2,1,0,0,9,0.7,0,0,-21,-13.7,-6,-5.4,Luxembourg,Belarus
+135,136,135,12.06. 20:45,Norway,Azerbaijan,0,0,0,2,1,0,0,6,0.4,0,0,1,3.4,-11,-10.2,Norway,Azerbaijan
+82,83,82,06.09. 18:00,Malta,Azerbaijan,2,2,0,2,1,0,0,9,0.7,0,0,-13,-8.3,-11,-10.2,Malta,Azerbaijan
+95,96,95,04.09. 20:45,Denmark,Albania,0,0,0,2,1,0,0,9,0.7,0,0,2,0.8,5,3.3,Denmark,Albania
+105,106,105,03.09. 20:45,Cyprus,Wales,0,1,-1,3,0,-1,1,9,0.7,-0.7,0.7,-1,2.5,7,2.9,Cyprus,Wales
+243,244,243,09.09. 20:45,Andorra,Wales,1,2,-1,3,0,-1,1,9,0.7,-0.7,0.7,-32,-22.4,7,2.9,Andorra,Wales
+137,138,137,12.06. 18:00,Kazakhstan,Turkey,0,1,-1,3,0,-1,1,6,0.4,-0.4,0.4,-11,-6.4,5,3.8,Kazakhstan,Turkey
+113,114,113,14.06. 20:45,Lithuania,Switzerland,1,2,-1,3,0,-1,1,6,0.4,-0.4,0.4,-11,-6.2,16,11,Lithuania,Switzerland
+18,19,18,12.10. 20:45,Estonia,Switzerland,0,1,-1,3,0,-1,1,10,0.8,-0.8,0.8,-5,-2.8,16,11,Estonia,Switzerland
+22,23,22,12.10. 20:45,Ukraine,Spain,0,1,-1,3,0,-1,1,10,0.8,-0.8,0.8,12,9.5,20,14.5,Ukraine,Spain
+62,63,62,08.09. 20:45,FYR Macedonia,Spain,0,1,-1,3,0,-1,1,9,0.7,-0.7,0.7,-12,-8.1,20,14.5,FYR Macedonia,Spain
+112,113,112,14.06. 20:45,Belarus,Spain,0,1,-1,3,0,-1,1,6,0.4,-0.4,0.4,-6,-5.4,20,14.5,Belarus,Spain
+258,259,258,08.09. 20:45,Ukraine,Slovakia,0,1,-1,3,0,-1,1,9,0.7,-0.7,0.7,12,9.5,9,5,Ukraine,Slovakia
+46,47,46,09.10. 20:45,Moldova,Russia,1,2,-1,3,0,-1,1,10,0.8,-0.8,0.8,-12,-7.8,16,9.8,Moldova,Russia
+263,264,263,07.09. 20:45,Greece,Romania,0,1,-1,3,0,-1,1,9,0.7,-0.7,0.7,-7,-5.1,9,6.6,Greece,Romania
+33,34,33,11.10. 18:00,Serbia,Portugal,1,2,-1,3,0,-1,1,10,0.8,-0.8,0.8,-5,-2.9,6,3.8,Serbia,Portugal
+191,192,191,14.10. 20:45,Denmark,Portugal,0,1,-1,3,0,-1,1,10,0.8,-0.8,0.8,2,0.8,6,3.8,Denmark,Portugal
+125,126,125,13.06. 18:00,Armenia,Portugal,2,3,-1,3,0,-1,1,6,0.4,-0.4,0.4,-9,-5.9,6,3.8,Armenia,Portugal
+69,70,69,07.09. 20:45,Albania,Portugal,0,1,-1,3,0,-1,1,9,0.7,-0.7,0.7,5,3.3,6,3.8,Albania,Portugal
+104,105,104,03.09. 20:45,Bulgaria,Norway,0,1,-1,3,0,-1,1,9,0.7,-0.7,0.7,-3,-2.7,1,3.4,Bulgaria,Norway
+170,171,170,16.11. 18:00,Azerbaijan,Norway,0,1,-1,3,0,-1,1,11,0.9,-0.9,0.9,-11,-10.2,1,3.4,Azerbaijan,Norway
+267,268,267,07.09. 18:00,Hungary,Northern Ireland,1,2,-1,3,0,-1,1,9,0.7,-0.7,0.7,4,3.2,8,5.2,Hungary,Northern Ireland
+41,42,41,10.10. 18:00,Kazakhstan,Netherlands,1,2,-1,3,0,-1,1,10,0.8,-0.8,0.8,-11,-6.4,3,2.7,Kazakhstan,Netherlands
+181,182,181,15.11. 18:00,Moldova,Liechtenstein,0,1,-1,3,0,-1,1,11,0.9,-0.9,0.9,-12,-7.8,-24,-14.3,Moldova,Liechtenstein
+12,13,12,13.10. 20:45,Latvia,Kazakhstan,0,1,-1,3,0,-1,1,10,0.8,-0.8,0.8,-13,-10.1,-11,-6.4,Latvia,Kazakhstan
+205,206,205,13.10. 20:45,Malta,Italy,0,1,-1,3,0,-1,1,10,0.8,-0.8,0.8,-13,-8.3,9,6.8,Malta,Italy
+227,228,227,10.10. 20:45,Cyprus,Israel,1,2,-1,3,0,-1,1,10,0.8,-0.8,0.8,-1,2.5,2,5.1,Cyprus,Israel
+266,267,266,07.09. 18:00,Georgia,Ireland,1,2,-1,3,0,-1,1,9,0.7,-0.7,0.7,-6,-2.1,14,10.7,Georgia,Ireland
+109,110,109,03.09. 20:45,Netherlands,Iceland,0,1,-1,3,0,-1,1,9,0.7,-0.7,0.7,3,2.7,11,5.8,Netherlands,Iceland
+7,8,7,12.11. 20:45,Norway,Hungary,0,1,-1,3,0,-1,1,11,0.9,-0.9,0.9,1,3.4,4,3.2,Norway,Hungary
+126,127,126,13.06. 18:00,Finland,Hungary,0,1,-1,3,0,-1,1,6,0.4,-0.4,0.4,-1,-0.2,4,3.2,Finland,Hungary
+192,193,192,14.10. 20:45,Faroe Islands,Hungary,0,1,-1,3,0,-1,1,10,0.8,-0.8,0.8,-11,-7.9,4,3.2,Faroe Islands,Hungary
+75,76,75,07.09. 20:45,Scotland,Germany,2,3,-1,3,0,-1,1,9,0.7,-0.7,0.7,10,4.9,15,7.8,Scotland,Germany
+99,100,99,04.09. 20:45,Greece,Finland,0,1,-1,3,0,-1,1,9,0.7,-0.7,0.7,-7,-5.1,-1,-0.2,Greece,Finland
+184,185,184,14.11. 20:45,Greece,Faroe Islands,0,1,-1,3,0,-1,1,11,0.9,-0.9,0.9,-7,-5.1,-11,-7.9,Greece,Faroe Islands
+119,120,119,14.06. 18:00,Slovenia,England,2,3,-1,3,0,-1,1,6,0.4,-0.4,0.4,5,-0.1,28,18.4,Slovenia,England
+214,215,214,12.10. 18:00,Estonia,England,0,1,-1,3,0,-1,1,10,0.8,-0.8,0.8,-5,-2.8,28,18.4,Estonia,England
+232,233,232,10.10. 20:45,Turkey,Czech Republic,1,2,-1,3,0,-1,1,10,0.8,-0.8,0.8,5,3.8,5,4.2,Turkey,Czech Republic
+14,15,14,13.10. 20:45,Netherlands,Czech Republic,2,3,-1,3,0,-1,1,10,0.8,-0.8,0.8,3,2.7,5,4.2,Netherlands,Czech Republic
+81,82,81,06.09. 18:00,Latvia,Czech Republic,1,2,-1,3,0,-1,1,9,0.7,-0.7,0.7,-13,-10.1,5,4.2,Latvia,Czech Republic
+38,39,38,10.10. 20:45,Israel,Cyprus,1,2,-1,3,0,-1,1,10,0.8,-0.8,0.8,2,5.1,5,2.5,Israel,Cyprus
+244,245,244,09.09. 20:45,Bosnia & Herzegovina,Cyprus,1,2,-1,3,0,-1,1,9,0.7,-0.7,0.7,3,-1,5,2.5,Bosnia & Herzegovina,Cyprus
+13,14,13,13.10. 20:45,Malta,Croatia,0,1,-1,3,0,-1,1,10,0.8,-0.8,0.8,-13,-8.3,15,9.2,Malta,Croatia
+226,227,226,10.10. 20:45,Bulgaria,Croatia,0,1,-1,3,0,-1,1,10,0.8,-0.8,0.8,-3,-2.7,15,9.2,Bulgaria,Croatia
+134,135,134,12.06. 20:45,Malta,Bulgaria,0,1,-1,3,0,-1,1,6,0.4,-0.4,0.4,-13,-8.3,-3,-2.7,Malta,Bulgaria
+249,250,249,09.09. 18:00,Azerbaijan,Bulgaria,1,2,-1,3,0,-1,1,9,0.7,-0.7,0.7,-11,-10.2,-3,-2.7,Azerbaijan,Bulgaria
+10,11,10,13.10. 20:45,Cyprus,Bosnia & Herzegovina,2,3,-1,3,0,-1,1,10,0.8,-0.8,0.8,-1,2.5,-3,-2.7,Cyprus,Bosnia & Herzegovina
+138,139,138,31.03. 20:45,Israel,Belgium,0,1,-1,3,0,-1,1,3,0.1,-0.1,0.1,2,5.1,19,11.1,Israel,Belgium
+78,79,78,06.09. 20:45,Cyprus,Belgium,0,1,-1,3,0,-1,1,9,0.7,-0.7,0.7,-1,2.5,19,11.1,Cyprus,Belgium
+48,49,48,09.10. 20:45,Slovakia,Belarus,0,1,-1,3,0,-1,1,10,0.8,-0.8,0.8,9,5,-6,-5.4,Slovakia,Belarus
+157,158,157,27.03. 20:45,FYR Macedonia,Belarus,1,2,-1,3,0,-1,1,3,0.1,-0.1,0.1,-12,-8.1,-6,-5.4,FYR Macedonia,Belarus
+118,119,118,14.06. 18:00,Russia,Austria,0,1,-1,3,0,-1,1,6,0.4,-0.4,0.4,16,9.8,17,9.4,Russia,Austria
+47,48,47,09.10. 20:45,Montenegro,Austria,2,3,-1,3,0,-1,1,10,0.8,-0.8,0.8,-3,-0.1,17,9.4,Montenegro,Austria
+239,240,239,09.10. 20:45,Moldova,Austria,1,2,-1,3,0,-1,1,10,0.8,-0.8,0.8,-12,-7.8,17,9.4,Moldova,Austria
+264,265,264,07.09. 20:45,Portugal,Albania,0,1,-1,3,0,-1,1,9,0.7,-0.7,0.7,6,3.8,5,3.3,Portugal,Albania
+44,45,44,09.10. 20:45,FYR Macedonia,Ukraine,0,2,-2,3,0,-2,2,10,0.8,-1.6,1.6,-12,-8.1,12,9.5,FYR Macedonia,Ukraine
+234,235,234,09.10. 20:45,Belarus,Ukraine,0,2,-2,3,0,-2,2,10,0.8,-1.6,1.6,-6,-5.4,12,9.5,Belarus,Ukraine
+37,38,37,10.10. 20:45,Czech Republic,Turkey,0,2,-2,3,0,-2,2,10,0.8,-1.6,1.6,5,4.2,5,3.8,Czech Republic,Turkey
+159,160,159,27.03. 20:45,Moldova,Sweden,0,2,-2,3,0,-2,2,3,0.1,-0.2,0.2,-12,-7.8,7,3.9,Moldova,Sweden
+45,46,45,09.10. 20:45,Liechtenstein,Sweden,0,2,-2,3,0,-2,2,10,0.8,-1.6,1.6,-24,-14.3,7,3.9,Liechtenstein,Sweden
+21,22,21,12.10. 20:45,San Marino,Slovenia,0,2,-2,3,0,-2,2,10,0.8,-1.6,1.6,-35,-22.1,5,-0.1,San Marino,Slovenia
+210,211,210,12.10. 20:45,Lithuania,Slovenia,0,2,-2,3,0,-2,2,10,0.8,-1.6,1.6,-11,-6.2,5,-0.1,Lithuania,Slovenia
+20,21,20,12.10. 20:45,Luxembourg,Slovakia,2,4,-2,3,0,-2,2,10,0.8,-1.6,1.6,-21,-13.7,9,5,Luxembourg,Slovakia
+174,175,174,15.11. 20:45,FYR Macedonia,Slovakia,0,2,-2,3,0,-2,2,11,0.9,-1.8,1.8,-12,-8.1,9,5,FYR Macedonia,Slovakia
+209,210,209,12.10. 20:45,Belarus,Slovakia,1,3,-2,3,0,-2,2,10,0.8,-1.6,1.6,-6,-5.4,9,5,Belarus,Slovakia
+52,53,52,08.10. 20:45,Albania,Serbia,0,2,-2,3,0,-2,2,10,0.8,-1.6,1.6,5,3.3,-5,-2.9,Albania,Serbia
+193,194,193,14.10. 20:45,Finland,Romania,0,2,-2,3,0,-2,2,10,0.8,-1.6,1.6,-1,-0.2,9,6.6,Finland,Romania
+196,197,196,14.10. 20:45,Greece,Northern Ireland,0,2,-2,3,0,-2,2,10,0.8,-1.6,1.6,-7,-5.1,8,5.2,Greece,Northern Ireland
+96,97,96,04.09. 20:45,Faroe Islands,Northern Ireland,1,3,-2,3,0,-2,2,9,0.7,-1.4,1.4,-11,-7.9,8,5.2,Faroe Islands,Northern Ireland
+133,134,133,12.06. 20:45,Latvia,Netherlands,0,2,-2,3,0,-2,2,6,0.4,-0.8,0.8,-13,-10.1,3,2.7,Latvia,Netherlands
+65,66,65,08.09. 20:45,Moldova,Montenegro,0,2,-2,3,0,-2,2,9,0.7,-1.4,1.4,-12,-7.8,-3,-0.1,Moldova,Montenegro
+255,256,255,08.09. 20:45,San Marino,Lithuania,0,2,-2,3,0,-2,2,9,0.7,-1.4,1.4,-35,-22.1,-11,-6.2,San Marino,Lithuania
+248,249,248,09.09. 20:45,Norway,Italy,0,2,-2,3,0,-2,2,9,0.7,-1.4,1.4,1,3.4,9,6.8,Norway,Italy
+39,40,39,10.10. 18:00,Azerbaijan,Italy,1,3,-2,3,0,-2,2,10,0.8,-1.6,1.6,-11,-10.2,9,6.8,Azerbaijan,Italy
+143,144,143,29.03. 18:00,Georgia,Germany,0,2,-2,3,0,-2,2,3,0.1,-0.2,0.2,-6,-2.1,15,7.8,Georgia,Germany
+260,261,260,07.09. 20:45,Faroe Islands,Finland,1,3,-2,3,0,-2,2,9,0.7,-1.4,1.4,-11,-7.9,-1,-0.2,Faroe Islands,Finland
+257,258,257,08.09. 20:45,Switzerland,England,0,2,-2,3,0,-2,2,9,0.7,-1.4,1.4,16,11,28,18.4,Switzerland,England
+189,190,189,14.11. 20:45,Serbia,Denmark,1,3,-2,3,0,-2,2,11,0.9,-1.8,1.8,-5,-2.9,2,0.8,Serbia,Denmark
+208,209,208,13.10. 18:00,Kazakhstan,Czech Republic,2,4,-2,3,0,-2,2,10,0.8,-1.6,1.6,-11,-6.4,5,4.2,Kazakhstan,Czech Republic
+129,130,129,12.06. 20:45,Andorra,Cyprus,1,3,-2,3,0,-2,2,6,0.4,-0.8,0.8,-32,-22.4,5,2.5,Andorra,Cyprus
+154,155,154,28.03. 18:00,Israel,Wales,0,3,-3,3,0,-3,3,3,0.1,-0.3,0.3,2,5.1,7,2.9,Israel,Wales
+180,181,180,15.11. 18:00,Luxembourg,Ukraine,0,3,-3,3,0,-3,3,11,0.9,-2.7,2.7,-21,-13.7,12,9.5,Luxembourg,Ukraine
+160,161,160,27.03. 20:45,Montenegro,Russia,0,3,-3,3,0,-3,3,3,0.1,-0.3,0.3,-3,-0.1,16,9.8,Montenegro,Russia
+30,31,30,11.10. 18:00,Faroe Islands,Romania,0,3,-3,3,0,-3,3,10,0.8,-2.4,2.4,-11,-7.9,9,6.6,Faroe Islands,Romania
+230,231,230,10.10. 20:45,Malta,Norway,0,3,-3,3,0,-3,3,10,0.8,-2.4,2.4,-13,-8.3,1,3.4,Malta,Norway
+200,201,200,13.10. 20:45,Andorra,Israel,1,4,-3,3,0,-3,3,10,0.8,-2.4,2.4,-32,-22.4,2,5.1,Andorra,Israel
+229,230,229,10.10. 20:45,Latvia,Iceland,0,3,-3,3,0,-3,3,10,0.8,-2.4,2.4,-13,-10.1,11,5.8,Latvia,Iceland
+155,156,155,28.03. 16:00,Kazakhstan,Iceland,0,3,-3,3,0,-3,3,3,0.1,-0.3,0.3,-11,-6.4,11,5.8,Kazakhstan,Iceland
+195,196,195,14.10. 20:45,Gibraltar,Georgia,0,3,-3,3,0,-3,3,10,0.8,-2.4,2.4,-54,-35.5,-6,-2.1,Gibraltar,Georgia
+19,20,19,12.10. 20:45,Lithuania,England,0,3,-3,3,0,-3,3,10,0.8,-2.4,2.4,-11,-6.2,28,18.4,Lithuania,England
+147,148,147,28.03. 20:45,Andorra,Bosnia & Herzegovina,0,3,-3,3,0,-3,3,3,0.1,-0.3,0.3,-32,-22.4,-3,-2.7,Andorra,Bosnia & Herzegovina
+34,35,34,10.10. 20:45,Andorra,Belgium,1,4,-3,3,0,-3,3,10,0.8,-2.4,2.4,-32,-22.4,19,11.1,Andorra,Belgium
+68,69,68,08.09. 20:45,Sweden,Austria,1,4,-3,3,0,-3,3,9,0.7,-2.1,2.1,7,3.9,17,9.4,Sweden,Austria
+199,200,199,14.10. 20:45,Serbia,Albania,0,3,-3,3,0,-3,3,10,0.8,-2.4,2.4,-5,-2.9,5,3.3,Serbia,Albania
+29,30,29,11.10. 18:00,Armenia,Albania,0,3,-3,3,0,-3,3,10,0.8,-2.4,2.4,-9,-5.9,5,3.3,Armenia,Albania
+198,199,198,14.10. 20:45,San Marino,Switzerland,0,4,-4,3,0,-4,4,10,0.8,-3.2,3.2,-35,-22.1,16,11,San Marino,Switzerland
+211,212,211,12.10. 20:45,Luxembourg,Spain,0,4,-4,3,0,-4,4,10,0.8,-3.2,3.2,-21,-13.7,20,14.5,Luxembourg,Spain
+190,191,190,14.11. 18:00,Georgia,Poland,0,4,-4,3,0,-4,4,11,0.9,-3.6,3.6,-6,-2.1,23,16,Georgia,Poland
+98,99,98,04.09. 20:45,Gibraltar,Ireland,0,4,-4,3,0,-4,4,9,0.7,-2.8,2.8,-54,-35.5,14,10.7,Gibraltar,Ireland
+158,159,158,27.03. 20:45,Liechtenstein,Austria,0,5,-5,3,0,-5,5,3,0.1,-0.5,0.5,-24,-14.3,17,9.4,Liechtenstein,Austria
+27,28,27,11.10. 20:45,Gibraltar,Scotland,0,6,-6,3,0,-6,6,10,0.8,-4.8,4.8,-54,-35.5,10,4.9,Gibraltar,Scotland
+93,94,93,05.09. 18:00,San Marino,England,0,6,-6,3,0,-6,6,9,0.7,-4.2,4.2,-35,-22.1,28,18.4,San Marino,England
+63,64,63,08.09. 20:45,Liechtenstein,Russia,0,7,-7,3,0,-7,7,9,0.7,-4.9,4.9,-24,-14.3,16,9.8,Liechtenstein,Russia
+262,263,262,07.09. 20:45,Gibraltar,Poland,0,7,-7,3,0,-7,7,9,0.7,-4.9,4.9,-54,-35.5,23,16,Gibraltar,Poland
+123,124,123,13.06. 20:45,Gibraltar,Germany,0,7,-7,3,0,-7,7,6,0.4,-2.8,2.8,-54,-35.5,15,7.8,Gibraltar,Germany
