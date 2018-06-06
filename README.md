@@ -7,3 +7,5 @@ The model features takes into account both teams’ goal differential over the q
 
 We might expand on this model methodology adding schedule strength, fatigue, and player skill level for predicting the 2018 World Cup played in Russia. 
 
+Read Here: https://beyondtheaverage.wordpress.com/2018/06/06/classifying-the-2016-european-championships/
+
