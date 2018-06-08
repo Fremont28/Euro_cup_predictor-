@@ -1,11 +1,12 @@
 # Euro_cup_predictor-
-Predicting results for the 2016 Euro Cup 
+Classyfing results for the 2016 Euro Cup 
 
-We built a simple random forest model for the 2016 European Championships. The model is trained on data from the Euro Cup qualifiers (played in 2015) and tested on the actual Euro Cup games played in June and July of 2016. 
+Nearly two years later, we built two classification models for the soccer 2016 UEFA European Championships played in Russia. 
 
-The model features takes into account both teams’ goal differential over the qualifying matches as well as weighted goal differential based on when the qualifying match was played. For instance, a qualifying match that is played in March 2015 has less weight than one in  November 2015.  The response is based on whether the home team wins, loses, or draws in the match. 
+The classification models were built on each teams’ goal differential and weighted goal differential over the qualifying matches for the 2016 European Championships (played in June/July). For reference, matches played closer to the start of the Euro Cup were weighted more heavily than those played earlier in 2015.  
 
-We might expand on this model methodology adding schedule strength, fatigue, and player skill level for predicting the 2018 World Cup played in Russia. 
+The first model is a multilayer perception (MLP) classifying whether a given team would win, draw, or lose in the match. This MLP model includes four inputs (features) and two hidden layers each with five neurons
+
 
 Read Here: https://beyondtheaverage.wordpress.com/2018/06/06/classifying-the-2016-european-championships/
 
